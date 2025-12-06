@@ -1,4 +1,4 @@
-# Responsi 2 Mobile Paket 2 H1D023109 — Inventaris Yosa
+# Responsi 2 Mobile Paket 2 H1D023109 — Inventaris Cihuy Yosa
 
 ## Identitas Mahasiswa
 - **Nama** : Yosafat Bagus Birawa  
