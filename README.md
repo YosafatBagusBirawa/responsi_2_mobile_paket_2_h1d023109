@@ -8,7 +8,7 @@
 
 ## Video Demo Aplikasi
 
-![video](video.mp4)
+https://github.com/user-attachments/assets/a5e3546b-0115-426f-8242-2a1b9a9861b6
 
 ## Spesifikasi API (Backend CodeIgniter 4)
 
